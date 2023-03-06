@@ -1,4 +1,4 @@
-# Borscht House
+<h1 align="center">Borscht House</h1>
 
 Fake API a base de JSON-Server + JSON-Server-Auth, feita para ser usada no desenvolvimento das API's nos Capstones do Q2.
 
@@ -9,7 +9,7 @@ A url base da API é https://https-borschthouse-com.onrender.com
 
 <br/>
 
-### Criação de usuário
+<h2 align="center"> ### Criação de usuário </h2>
 
 ```
 POST /register - FORMATO DA REQUISIÇÃO
@@ -52,7 +52,7 @@ POST /users - FORMATO DA RESPOSTA - STATUS 201
 
 <br/>
 
-### Possíveis erros
+<h2 align="center">Possíveis erros </h2>
 
 Caso você acabe errando e mandando algum campo errado, a resposta de erro será assim:
 
@@ -72,7 +72,7 @@ Email já cadastrado:
 
 <br/>
 
-### Login
+<h2 align="center">Login</h2>
 
 `POST /login - FORMATO DA REQUISIÇÃO`
 
@@ -104,7 +104,7 @@ Com essa resposta, vemos que temos duas informações, o user e o token respecti
 
 <br/>
 
-### Rotas que necessitam de autorização
+<h2 align="center">Rotas que necessitam de autorização</h2>
 
 Rotas que necessitam de autorização deve ser informado no cabeçalho da requisição o campo "Authorization", dessa forma:
 
@@ -112,7 +112,7 @@ Authorization: Bearer {token} Após o usuário estar logado, ele deve conseguir 
 
 <br/>
 
-### Auto login
+<h2 align="center">Auto login</h2>
 
 `GET /users/{userId}`
 
@@ -135,7 +135,7 @@ Caso dê tudo certo, a resposta será assim:
 
 <br/>
 
-### Editar Usuario
+<h2 align="center">Editar Usuario</h2>
 
 `PATCH /users/{userId}`
 
@@ -166,7 +166,7 @@ Caso dê tudo certo, a resposta será assim:
 
 <br/>
 
-### Deletar Usuario
+<h2 align="center">Deletar Usuario</h2>
 
 É necessario o Authorization: Bearer {token}.
 
@@ -181,7 +181,7 @@ Caso dê tudo certo, a resposta será assim:
 
 <br/>
 
-### Produtos
+<h2 align="center">Produtos</h2>
 
 É necessario o Authorization: Bearer {token}.
 
@@ -213,7 +213,7 @@ Caso dê tudo certo, a resposta será assim:
 
 <br/>
 
-### Países
+<h2 align="center">Países</h2>
 
 É necessario o Authorization: Bearer {token}.
 
