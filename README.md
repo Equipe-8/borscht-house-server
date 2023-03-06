@@ -2,9 +2,10 @@
 
 Fake API a base de JSON-Server + JSON-Server-Auth, feita para ser usada no desenvolvimento das API's nos Capstones do Q2.
 
-A url base da API é https://borschthouse.com
+A url base da API é https://https-borschthouse-com.onrender.com
 
-[borscht house.zip](https://github.com/Equipe-8/borschtHouse-server/files/10893239/borscht.house.zip)
+[borscht house.zip](https://github.com/Equipe-8/borscht-house-server/files/10899341/borscht.house.zip)
+
 
 <br/>
 
