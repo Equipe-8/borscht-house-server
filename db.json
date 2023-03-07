@@ -73,7 +73,7 @@
     {
       "name": "бефстро́ганов",
       "img": "Russia",
-      "country": "http://localhost:3001/assets/food/бефстро́ганов-ru.jpg",
+      "country": "http://localhost:3001/assets/food/бефстроoганов-ru.jpg",
       "price": 60.33,
       "countryId": 5,
       "description": {
@@ -111,7 +111,7 @@
     },
     {
       "name": "Gira",
-      "img": "http://localhost:3001/assets/food/gira.jpg",
+      "img": "http://localhost:3001/assets/food/gira-lt.jpg",
       "country": "Lituânia",
       "price": 75.5,
       "countryId": 2,
@@ -145,7 +145,7 @@
         "detail": "Tradicional da Lituânia, o vinho de romã caracteriza-se a partir de romãs amadurecidas sob o sol. Este vinho natural é elaborado a partir do sumo do fruto da romã e mantido a baixa temperatura após fermentação e clarificação. Este vinho acompanha bem carnes vermelhas, pratos condimentados, queijos e sobremesas. Pode ser usado como aperitivo.",
         "ingredient": "romã, bagas."
       },
-      "id": 9,
+      "id": 10,
       "countryFlag": "http://localhost:3001/assets/flags/lithuania-map-flag.svg"
     }
   ],
