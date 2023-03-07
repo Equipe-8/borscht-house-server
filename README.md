@@ -4,13 +4,11 @@ Fake API a base de JSON-Server + JSON-Server-Auth, feita para ser usada no desen
 
 A url base da API é https://borschthouse.onrender.com
 
-
 [borscht house.zip](https://github.com/Equipe-8/borscht-house-server/files/10899559/borscht.house.zip)
-
 
 <br/>
 
-<h2 align="center"> ### Criação de usuário </h2>
+<h2 align="center"> Criação de usuário </h2>
 
 ```
 POST /register - FORMATO DA REQUISIÇÃO

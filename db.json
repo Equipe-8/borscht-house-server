@@ -21,6 +21,7 @@
     {
       "name": "Borscht Vegetariano",
       "img": "http://localhost:3001/assets/food/borscht-ua.jpg",
+      "price": 55.55,
       "country": "Ucrânia",
       "countryId": 1,
       "description": {
@@ -34,6 +35,7 @@
       "name": "Cepelinai",
       "img": "http://localhost:3001/assets/food/cepelinai-lt.jpg",
       "country": "Lituânia",
+      "price": 59.0,
       "countryId": 2,
       "description": {
         "detail": "O nome de Cepelinai vem de sua forma que se assemelha a um dirigível Zeppelin. E é o prato mais popular da culinária Lituânia. São bolinhos deitos de batata ralada recheados com carne moída requeijão ou cogumelos, servidos normalmente pre-cozido e com sour cream.",
@@ -46,6 +48,7 @@
       "name": "Goulash",
       "img": "http://localhost:3001/assets/food/goulash-hu.jpg",
       "country": "Húngria",
+      "price": 53.2,
       "countryId": 3,
       "description": {
         "detail": "É interessante notar que, em húngaro, gulyás é o nome que se dá a uma sopa à base de pimentão (páprica), carne e legumes. Já o goulash pode ser preparado com carne bovina ou suína. O auêntico goulash era preparao pelos pastores húngaros, e essa receita lembra muito nosso guisado, Sabe aquela carne de panela macia, com sabor surpreendente e que ainda rende um caldinho? É disso que eu estou falando.",
@@ -58,6 +61,7 @@
       "name": "Golabki",
       "img": "http://localhost:3001/assets/food/golabki-pl.jpg",
       "country": "Polônia",
+      "price": 62.0,
       "countryId": 4,
       "description": {
         "detail": "Na Polônia, este prato delicioso é conhecido como Gołąbki, que significa “pombinhos”, se referindo ao tamanho pequeno destes rolinhos.Consiste em repolho ou couves recheadas com carnes bovina ou de porco picadas e arroz.",
@@ -70,6 +74,7 @@
       "name": "бефстро́ганов",
       "img": "Russia",
       "country": "http://localhost:3001/assets/food/бефстро́ганов-ru.jpg",
+      "price": 60.33,
       "countryId": 5,
       "description": {
         "detail": "O nome da comida vem de uma antiga e tradicional família da Rússia, os Stroganov. O cozinheiro da familia teria misturado um jeito clássico francês de preparar a carne ( dourada e flambada, com mostarda) com smetana, creme azedo, um dos ingredientes mais importantes da terra da vodca.",
@@ -82,6 +87,7 @@
       "name": "Aguonu Pyragas",
       "img": "http://localhost:3001/assets/food/aguonu-pyragas-lt.jpg",
       "country": "Lituânia",
+      "price": 47.99,
       "countryId": 2,
       "description": {
         "detail": "Original da região de Atylus, Aguonu Pyragas é uma sobremesa de Natal/Páscoa feito a base de sementes de papoula e mel, mas podem ser servidos em qualquer ocasião acompanhado de chá.",
@@ -94,6 +100,7 @@
       "name": "Obuoliu Pyragas",
       "img": "http://localhost:3001/assets/food/pyragas-lt.jpg",
       "country": "Lituânia",
+      "price": 53.0,
       "countryId": 2,
       "description": {
         "detail": "Maçã é uma das frutas mais tradicionais do Leste/Norte Europeu pondendo encontrar em varios tamanhos e tipos. Em todasas sodybas (casa de campo lituana) se encontra um pé de maça, enão nada melhor do que fazer uma saborasa torta.",
@@ -106,6 +113,7 @@
       "name": "Gira",
       "img": "http://localhost:3001/assets/food/gira.jpg",
       "country": "Lituânia",
+      "price": 75.5,
       "countryId": 2,
       "description": {
         "detail": "É uma bebida tradicional das aldeiras dos países bálticos e Eslavos (Leste/Norte da Europa), que é base é pão típico de centeio e café. E o sabor é ligeiramente adocicado e possui um baixíssimo teor alcoólico, de 0,05%.",
@@ -118,6 +126,7 @@
       "name": "Gaivūs vasaros gėrimai",
       "img": "http://localhost:3001/assets/food/gaivos-vasaros-gerimai-lt.jpg",
       "country": "Lituânia",
+      "price": 17.0,
       "countryId": 2,
       "description": {
         "detail": "As bebidas de verão tradicionais do Leste/Norte da Europa agradam aos olhos assim como à decoração da mesa. A água é apimentada não somente só com bagas, mas também com vegetais. Provavelmente esta bebida sempre estará no topo da lista de bebidas favoritas de nossos compatriotas.",
@@ -130,6 +139,7 @@
       "name": "Granatų vynas",
       "img": "http://localhost:3001/assets/food/Granatų-vynas.jpg",
       "country": "Lituânia",
+      "price": 87.8,
       "countryId": 2,
       "description": {
         "detail": "Tradicional da Lituânia, o vinho de romã caracteriza-se a partir de romãs amadurecidas sob o sol. Este vinho natural é elaborado a partir do sumo do fruto da romã e mantido a baixa temperatura após fermentação e clarificação. Este vinho acompanha bem carnes vermelhas, pratos condimentados, queijos e sobremesas. Pode ser usado como aperitivo.",
