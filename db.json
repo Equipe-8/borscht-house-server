@@ -72,8 +72,8 @@
     },
     {
       "name": "бефстро́ганов",
-      "img": "Russia",
-      "country": "http://localhost:3001/assets/food/strogonoff-ru.jpg",
+      "img": "http://localhost:3001/assets/food/strogonoff-ru.jpg",
+      "country": "Russia",
       "price": 60.33,
       "countryId": 5,
       "description": {
