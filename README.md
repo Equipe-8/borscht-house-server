@@ -4,7 +4,6 @@ Fake API a base de JSON-Server + JSON-Server-Auth, feita para ser usada no desen
 
 A url base da API é https://borschthouse.onrender.com
 
-
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Borscht%20House&uri=https%3A%2F%2Fborschthouse.onrender.com)
 
 <br/>
@@ -89,11 +88,12 @@ Caso dê tudo certo, a resposta será assim:
 
 ```
 {
-	"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtlbnppbmhvQG1haWwuY29tIiwiaWF0IjoxNjc4MDQzNTMyLCJleHAiOjE2NzgwNDcxMzIsInN1YiI6IjEifQ.iCTJvSqIGFAcf5p7gM2ldTjHLQy_9My6-IlYvE0bOL8",
+	"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtlbnppbmhvQG1haWwuY29tIiwiaWF0IjoxNjc4NDc2NzA1LCJleHAiOjE2Nzg0ODAzMDUsInN1YiI6IjEifQ.6R7MZoOxAWHAlltlyvatv1u14n0-Gey8IVCTdP6QFkQ",
 	"user": {
 		"email": "kenzinho@mail.com",
 		"name": "Kenzinho",
-		"id": 1
+		"id": 1,
+		"address": "Joa Soares"
 	}
 }
 ```
@@ -129,7 +129,8 @@ Caso dê tudo certo, a resposta será assim:
 	"email": "teste@mail.com",
 	"password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOhkuyt7FO",
 	"name": "teste",
-	"id": 2
+	"id": 2,
+	"address": "Joa Soares, 25",
 }
 ```
 
