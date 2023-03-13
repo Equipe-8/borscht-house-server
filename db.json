@@ -153,7 +153,7 @@
     {
       "countryName": "Ucrânia",
       "countryId": 1,
-      "countryFlag": "https://borschthouse.onrender.com/assets/food/Granatų-vynas.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_map_of_Ukraine_from_2014.png",
       "about": {
         "fact_1": "A Ucrânia é um país da Europa Oriental. kiev é a capital e a cidade mais populosa da Ucrânia. Fica no centro-norte do país, ao longo do rio Dnieper.",
         "fact_2": "Seu nome vem de uma palavra que significa “fronteira”. ",
@@ -163,7 +163,7 @@
     {
       "countryName": "Lituânia",
       "countryId": 2,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag-map_of_Lithuania.svg/2560px-Flag-map_of_Lithuania.svg.png",
       "about": {
         "fact_1": "A Lituânia foi o primeiro país a se tornar independente da União Soviética. Vinius é a sua capital, e basquete é a paixão dos lituanos.",
         "fact_2": "A língua lituana é um idioma Indo-Europeu considerada uma das mais antigas do mundo, tão antiga quanto o sânscrito.",
@@ -173,7 +173,7 @@
     {
       "countryName": "Húngria",
       "countryId": 3,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/hungary-map-flag.svg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag-map_of_Hungary_%281919-1920%29.svg/2560px-Flag-map_of_Hungary_%281919-1920%29.svg.png",
       "about": {
         "fact_1": "A Hungria fica localizada bem ao centro da Europa e faz fronteira com sete países, por isso, não existe saída para o mar, porém o país tem mais de 1.000 lagos E Budapeste é sua capital.",
         "fact_2": "A língua húngara tem 14 vogais e a palavra mais longa no idioma da Hungria tem 44 letras: megszentségtelenithetetlenségeskedéseitekért, que significa a expressão por suas atitudes improfanáveis.",
@@ -183,7 +183,7 @@
     {
       "countryName": "Polônia",
       "countryId": 4,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/poland-map-flag.svg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag-map_of_Poland_%281918-1939%29.svg/1797px-Flag-map_of_Poland_%281918-1939%29.svg.png",
       "about": {
         "fact_1": "A Polônia é considerado considerada a nona maior nação da Europa. Suas principais cidades são: Varsóvia, Cracóvia, Poznan e Wroclaw. Varsóvia sua capital, o Gueto de Varsóvia foi implementado na segunda guerra mundial, recebeu milhares de judeus, antes de serem enviados para Auschwitz.",
         "fact_2": "A Polônia é um país muito religioso, sendo assim grande parte da população segue alguma religião, e a de maior influência é o Catolicismo, praticante da Igreja Católica Apostólica Romana. Karol Józef Wojtyła tambem conhecido como o Papa João Paulo II era polonês.",
@@ -193,7 +193,7 @@
     {
       "countryName": "Russia",
       "countryId": 5,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/russia-map-flag.svg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag-map_of_Greater_Russia.svg",
       "about": {
         "fact_1": "A Rússia é o país com maior terrítorio do mundo e sua capital é Moscou, seu alfabeto é o cirílico e Matrioska é um símbolo nacional (uma boneca maior, que carrega dentro de si uma sequência de outras menores) que representa amor e sorte quando ganhados de presente.",
         "fact_2": "A primeira mulher e o primeiro homen a visitar o espaço sideral são os Russos:Yuri Alekseievitch Gagarin e Valentina Vladimirovna Tereshkova.",
