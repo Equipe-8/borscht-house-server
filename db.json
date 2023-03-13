@@ -38,8 +38,7 @@
         "detail": "É um prato tradicional da Ucrânia, distingue-se pela sua consistência espessa e pela cor forte do seu principal ingrediente: a beterraba. Para ter um sabor mais apurado, a sopa é preparada no dia anterior e aquecida imediatamente antes de servir.",
         "ingredient": "beterraba, cebola, alho, couve, tomates,farinha de trigo, sour cream."
       },
-      "id": 1,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/ukraine-map-flag.svg"
+      "id": 1
     },
     {
       "name": "Cepelinai",
@@ -51,8 +50,7 @@
         "detail": "O nome de Cepelinai vem de sua forma que se assemelha a um dirigível Zeppelin. E é o prato mais popular da culinária Lituânia. São bolinhos deitos de batata ralada recheados com carne moída requeijão ou cogumelos, servidos normalmente pre-cozido e com sour cream.",
         "ingredient": "batata, cebola, suco de limão, carne moíde (porco ou vaca), cogumelos, sour cream."
       },
-      "id": 2,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
+      "id": 2
     },
     {
       "name": "Goulash",
@@ -64,8 +62,7 @@
         "detail": "É interessante notar que, em húngaro, gulyás é o nome que se dá a uma sopa à base de pimentão (páprica), carne e legumes. Já o goulash pode ser preparado com carne bovina ou suína. O auêntico goulash era preparao pelos pastores húngaros, e essa receita lembra muito nosso guisado, Sabe aquela carne de panela macia, com sabor surpreendente e que ainda rende um caldinho? É disso que eu estou falando.",
         "ingredient": "Carne (bovina ou suína) picada, pimenta, extrato de tomate, amido de milho, azeite de oliva."
       },
-      "id": 3,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/hungary-map-flag.svg"
+      "id": 3
     },
     {
       "name": "Golabki",
@@ -77,8 +74,7 @@
         "detail": "Na Polônia, este prato delicioso é conhecido como Gołąbki, que significa “pombinhos”, se referindo ao tamanho pequeno destes rolinhos.Consiste em repolho ou couves recheadas com carnes bovina ou de porco picadas e arroz.",
         "ingredient": "repolho, carne (bovina ou suína), cebola , arroz, nozes, páprica doce, alho."
       },
-      "id": 4,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/poland-map-flag.svg"
+      "id": 4
     },
     {
       "name": "бефстро́ганов",
@@ -90,8 +86,7 @@
         "detail": "O nome da comida vem de uma antiga e tradicional família da Rússia, os Stroganov. O cozinheiro da familia teria misturado um jeito clássico francês de preparar a carne ( dourada e flambada, com mostarda) com smetana, creme azedo, um dos ingredientes mais importantes da terra da vodca.",
         "ingredient": "filé mignon, creme de leite fresco, suco de limão, cogumelos frescos, whisky, mostarda em grãos, páprica."
       },
-      "id": 5,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/russia-map-flag.svg"
+      "id": 5
     },
     {
       "name": "Aguonu Pyragas",
@@ -103,8 +98,7 @@
         "detail": "Original da região de Atylus, Aguonu Pyragas é uma sobremesa de Natal/Páscoa feito a base de sementes de papoula e mel, mas podem ser servidos em qualquer ocasião acompanhado de chá.",
         "ingredient": "Semete de papoula, mel, farinha, ovos, açucar"
       },
-      "id": 6,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
+      "id": 6
     },
     {
       "name": "Obuoliu Pyragas",
@@ -116,8 +110,7 @@
         "detail": "Maçã é uma das frutas mais tradicionais do Leste/Norte Europeu pondendo encontrar em varios tamanhos e tipos. Em todasas sodybas (casa de campo lituana) se encontra um pé de maça, enão nada melhor do que fazer uma saborasa torta.",
         "ingredient": "Maçã, ovos, açucar, farinha de trigo"
       },
-      "id": 7,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
+      "id": 7
     },
     {
       "name": "Gira",
@@ -129,8 +122,7 @@
         "detail": "É uma bebida tradicional das aldeiras dos países bálticos e Eslavos (Leste/Norte da Europa), que é base é pão típico de centeio e café. E o sabor é ligeiramente adocicado e possui um baixíssimo teor alcoólico, de 0,05%.",
         "ingredient": "água, tradicional pão preto, açurcar, fermeto seco, uva passas, grãos de café."
       },
-      "id": 8,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
+      "id": 8
     },
     {
       "name": "Gaivūs vasaros gėrimai",
@@ -142,8 +134,7 @@
         "detail": "As bebidas de verão tradicionais do Leste/Norte da Europa agradam aos olhos assim como à decoração da mesa. A água é apimentada não somente só com bagas, mas também com vegetais. Provavelmente esta bebida sempre estará no topo da lista de bebidas favoritas de nossos compatriotas.",
         "ingredient": "água com limão e hortelã ou infusão de várias frutas e bagas."
       },
-      "id": 9,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
+      "id": 9
     },
     {
       "name": "Granatų vynas",
@@ -155,14 +146,14 @@
         "detail": "Tradicional da Lituânia, o vinho de romã caracteriza-se a partir de romãs amadurecidas sob o sol. Este vinho natural é elaborado a partir do sumo do fruto da romã e mantido a baixa temperatura após fermentação e clarificação. Este vinho acompanha bem carnes vermelhas, pratos condimentados, queijos e sobremesas. Pode ser usado como aperitivo.",
         "ingredient": "romã, bagas."
       },
-      "id": 10,
-      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
+      "id": 10
     }
   ],
   "countries": [
     {
       "countryName": "Ucrânia",
       "countryId": 1,
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/ukraine-map-flag.svg",
       "about": {
         "fact_1": "A Ucrânia é um país da Europa Oriental. kiev é a capital e a cidade mais populosa da Ucrânia. Fica no centro-norte do país, ao longo do rio Dnieper.",
         "fact_2": "Seu nome vem de uma palavra que significa “fronteira”. ",
@@ -172,6 +163,7 @@
     {
       "countryName": "Lituânia",
       "countryId": 2,
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg",
       "about": {
         "fact_1": "A Lituânia foi o primeiro país a se tornar independente da União Soviética. Vinius é a sua capital, e basquete é a paixão dos lituanos.",
         "fact_2": "A língua lituana é um idioma Indo-Europeu considerada uma das mais antigas do mundo, tão antiga quanto o sânscrito.",
@@ -181,6 +173,7 @@
     {
       "countryName": "Húngria",
       "countryId": 3,
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/hungary-map-flag.svg",
       "about": {
         "fact_1": "A Hungria fica localizada bem ao centro da Europa e faz fronteira com sete países, por isso, não existe saída para o mar, porém o país tem mais de 1.000 lagos E Budapeste é sua capital.",
         "fact_2": "A língua húngara tem 14 vogais e a palavra mais longa no idioma da Hungria tem 44 letras: megszentségtelenithetetlenségeskedéseitekért, que significa a expressão por suas atitudes improfanáveis.",
@@ -190,6 +183,7 @@
     {
       "countryName": "Polônia",
       "countryId": 4,
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/poland-map-flag.svg",
       "about": {
         "fact_1": "A Polônia é considerado considerada a nona maior nação da Europa. Suas principais cidades são: Varsóvia, Cracóvia, Poznan e Wroclaw. Varsóvia sua capital, o Gueto de Varsóvia foi implementado na segunda guerra mundial, recebeu milhares de judeus, antes de serem enviados para Auschwitz.",
         "fact_2": "A Polônia é um país muito religioso, sendo assim grande parte da população segue alguma religião, e a de maior influência é o Catolicismo, praticante da Igreja Católica Apostólica Romana. Karol Józef Wojtyła tambem conhecido como o Papa João Paulo II era polonês.",
@@ -199,6 +193,7 @@
     {
       "countryName": "Russia",
       "countryId": 5,
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/russia-map-flag.svg",
       "about": {
         "fact_1": "A Rússia é o país com maior terrítorio do mundo e sua capital é Moscou, seu alfabeto é o cirílico e Matrioska é um símbolo nacional (uma boneca maior, que carrega dentro de si uma sequência de outras menores) que representa amor e sorte quando ganhados de presente.",
         "fact_2": "A primeira mulher e o primeiro homen a visitar o espaço sideral são os Russos:Yuri Alekseievitch Gagarin e Valentina Vladimirovna Tereshkova.",
