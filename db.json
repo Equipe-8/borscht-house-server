@@ -6,6 +6,15 @@
       "name": "Kenzinho",
       "id": 1,
       "address": "Joa Soares, 237"
+    },
+    {
+      "email": "laura@mail.com",
+      "password": "$2a$10$h/i.29fWY7RZZWqGUINyvOv71PIVFPfZfERVH1Uzr.CW6LbpIy0ea",
+      "name": "Pri",
+      "contact": "15988525",
+      "address": "rua melao 313",
+      "confirmPassword": "123456",
+      "id": 2
     }
   ],
   "register": [
@@ -21,7 +30,7 @@
   "products": [
     {
       "name": "Borscht Vegetariano",
-      "img": "http://localhost:3001/assets/food/borscht-ua.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/borscht-ua.jpg",
       "price": 55.55,
       "country": "Ucrânia",
       "countryId": 1,
@@ -30,24 +39,24 @@
         "ingredient": "beterraba, cebola, alho, couve, tomates,farinha de trigo, sour cream."
       },
       "id": 1,
-      "countryFlag": "http://localhost:3001/assets/flags/ukraine-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/ukraine-map-flag.svg"
     },
     {
       "name": "Cepelinai",
-      "img": "http://localhost:3001/assets/food/cepelinai-lt.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/cepelinai-lt.jpg",
       "country": "Lituânia",
-      "price": 59.0,
+      "price": 59,
       "countryId": 2,
       "description": {
         "detail": "O nome de Cepelinai vem de sua forma que se assemelha a um dirigível Zeppelin. E é o prato mais popular da culinária Lituânia. São bolinhos deitos de batata ralada recheados com carne moída requeijão ou cogumelos, servidos normalmente pre-cozido e com sour cream.",
         "ingredient": "batata, cebola, suco de limão, carne moíde (porco ou vaca), cogumelos, sour cream."
       },
       "id": 2,
-      "countryFlag": "http://localhost:3001/assets/flags/lithuania-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
     },
     {
       "name": "Goulash",
-      "img": "http://localhost:3001/assets/food/goulash-hu.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/goulash-hu.jpg",
       "country": "Húngria",
       "price": 53.2,
       "countryId": 3,
@@ -56,24 +65,24 @@
         "ingredient": "Carne (bovina ou suína) picada, pimenta, extrato de tomate, amido de milho, azeite de oliva."
       },
       "id": 3,
-      "countryFlag": "http://localhost:3001/assets/flags/hungary-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/hungary-map-flag.svg"
     },
     {
       "name": "Golabki",
-      "img": "http://localhost:3001/assets/food/golabki-pl.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/golabki-pl.jpg",
       "country": "Polônia",
-      "price": 62.0,
+      "price": 62,
       "countryId": 4,
       "description": {
         "detail": "Na Polônia, este prato delicioso é conhecido como Gołąbki, que significa “pombinhos”, se referindo ao tamanho pequeno destes rolinhos.Consiste em repolho ou couves recheadas com carnes bovina ou de porco picadas e arroz.",
         "ingredient": "repolho, carne (bovina ou suína), cebola , arroz, nozes, páprica doce, alho."
       },
       "id": 4,
-      "countryFlag": "http://localhost:3001/assets/flags/poland-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/poland-map-flag.svg"
     },
     {
       "name": "бефстро́ганов",
-      "img": "http://localhost:3001/assets/food/strogonoff-ru.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/strogonoff-ru.jpg",
       "country": "Russia",
       "price": 60.33,
       "countryId": 5,
@@ -82,11 +91,11 @@
         "ingredient": "filé mignon, creme de leite fresco, suco de limão, cogumelos frescos, whisky, mostarda em grãos, páprica."
       },
       "id": 5,
-      "countryFlag": "http://localhost:3001/assets/flags/russia-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/russia-map-flag.svg"
     },
     {
       "name": "Aguonu Pyragas",
-      "img": "http://localhost:3001/assets/food/aguonu-pyragas-lt.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/aguonu-pyragas-lt.jpg",
       "country": "Lituânia",
       "price": 47.99,
       "countryId": 2,
@@ -95,24 +104,24 @@
         "ingredient": "Semete de papoula, mel, farinha, ovos, açucar"
       },
       "id": 6,
-      "countryFlag": "http://localhost:3001/assets/flags/lithuania-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
     },
     {
       "name": "Obuoliu Pyragas",
-      "img": "http://localhost:3001/assets/food/pyragas-lt.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/pyragas-lt.jpg",
       "country": "Lituânia",
-      "price": 53.0,
+      "price": 53,
       "countryId": 2,
       "description": {
         "detail": "Maçã é uma das frutas mais tradicionais do Leste/Norte Europeu pondendo encontrar em varios tamanhos e tipos. Em todasas sodybas (casa de campo lituana) se encontra um pé de maça, enão nada melhor do que fazer uma saborasa torta.",
         "ingredient": "Maçã, ovos, açucar, farinha de trigo"
       },
       "id": 7,
-      "countryFlag": "http://localhost:3001/assets/flags/lithuania-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
     },
     {
       "name": "Gira",
-      "img": "http://localhost:3001/assets/food/gira-lt.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/gira-lt.jpg",
       "country": "Lituânia",
       "price": 75.5,
       "countryId": 2,
@@ -121,24 +130,24 @@
         "ingredient": "água, tradicional pão preto, açurcar, fermeto seco, uva passas, grãos de café."
       },
       "id": 8,
-      "countryFlag": "http://localhost:3001/assets/flags/lithuania-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
     },
     {
       "name": "Gaivūs vasaros gėrimai",
-      "img": "http://localhost:3001/assets/food/gaivos-vasaros-gerimai-lt.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/gaivos-vasaros-gerimai-lt.jpg",
       "country": "Lituânia",
-      "price": 17.0,
+      "price": 17,
       "countryId": 2,
       "description": {
         "detail": "As bebidas de verão tradicionais do Leste/Norte da Europa agradam aos olhos assim como à decoração da mesa. A água é apimentada não somente só com bagas, mas também com vegetais. Provavelmente esta bebida sempre estará no topo da lista de bebidas favoritas de nossos compatriotas.",
         "ingredient": "água com limão e hortelã ou infusão de várias frutas e bagas."
       },
       "id": 9,
-      "countryFlag": "http://localhost:3001/assets/flags/lithuania-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
     },
     {
       "name": "Granatų vynas",
-      "img": "http://localhost:3001/assets/food/Granatų-vynas.jpg",
+      "img": "https://borschthouse.onrender.com/assets/food/Granatų-vynas.jpg",
       "country": "Lituânia",
       "price": 87.8,
       "countryId": 2,
@@ -147,7 +156,7 @@
         "ingredient": "romã, bagas."
       },
       "id": 10,
-      "countryFlag": "http://localhost:3001/assets/flags/lithuania-map-flag.svg"
+      "countryFlag": "https://borschthouse.onrender.com/assets/flags/lithuania-map-flag.svg"
     }
   ],
   "countries": [

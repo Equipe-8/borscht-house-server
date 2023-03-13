@@ -227,13 +227,13 @@ Caso dê tudo certo, a resposta será assim:
 
 ```
 [
-	{
+		{
 		"countryName": "Ucrânia",
 		"countryId": 1,
 		"about": {
-			"1": "A Ucrânia é um país da Europa Oriental. kiev é a capital e a cidade mais populosa da Ucrânia. Fica no centro-norte do país, ao longo do rio Dnieper.",
-			"2": "Seu nome vem de uma palavra que significa “fronteira”. ",
-			"3": "A imigração ucraniana no Brasil ocorreu nos séculos XIX e XX, O Brasil abriga a maior comunidade ucraniana da América Latina, onde 75% da polulação da cidade Prudentópolis-PR são de ascendência ucraniana."
+			"fact_1": "A Ucrânia é um país da Europa Oriental. kiev é a capital e a cidade mais populosa da Ucrânia. Fica no centro-norte do país, ao longo do rio Dnieper.",
+			"fact_2": "Seu nome vem de uma palavra que significa “fronteira”. ",
+			"fact_3": "A imigração ucraniana no Brasil ocorreu nos séculos XIX e XX, O Brasil abriga a maior comunidade ucraniana da América Latina, onde 75% da polulação da cidade Prudentópolis-PR são de ascendência ucraniana."
 		}
 	},
     {...}
