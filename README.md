@@ -2,7 +2,7 @@
 
 Fake API a base de JSON-Server + JSON-Server-Auth, feita para ser usada no desenvolvimento das API's nos Capstones do Q2.
 
-A url base da API é https://learned-polite-shake.glitch.me
+A url base da API é https://borschthouse.onrender.com
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Borscht%20House&uri=https%3A%2F%2Fborschthouse.onrender.com)
 
